@@ -35,3 +35,11 @@ function returnSubMax(arr) {
 
 
 // task 3
+
+let length = 2; 
+let width = 3;
+    
+function square(length, width){
+    return length * width
+}
+console.log(square(length, width))
